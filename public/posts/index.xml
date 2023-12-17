@@ -1,80 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Awesome Hugo blog</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on Awesome Hugo blog</description>
+    <title>Articoli on Lucas_blog</title>
+    <link>https://xlmm.github.io/lucasloveann.github.io/posts/</link>
+    <description>Recent content in Articoli on Lucas_blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn</language>
+    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xlmm.github.io/lucasloveann.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Table of content</title>
-      <link>https://example.org/posts/table-of-content/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <title>lucas</title>
+      <link>https://xlmm.github.io/lucasloveann.github.io/posts/lucas/hugo--%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/table-of-content/</guid>
+      <guid>https://xlmm.github.io/lucasloveann.github.io/posts/lucas/hugo--%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
       
-      <description>Table of content This theme supports displaying table of content (ToC) in blog posts.
-Parameters You can manage a ToC with two parameters:
-global toc parameter; post toc parameter. The post toc parameter has higher priority than the global toc parameter.
-Enable table of content on all posts To enable ToC on all posts (globally) set parameter toc to true in config.toml.
-[params] toc = true To disable ToC globally, simply ignore the toc parameter or set it to false.</description>
+      <description>背景 Hugo 是用 Go 实现的博客工具，采用 Markdown 进行文章编辑，自动生成静态站点文件，支持丰富的主题配置，也可以通过 js 嵌入像是评论系统等插件，高度定制化。当然还有很多其他的，如 notion ，WordPress 等等，我喜欢 hugo 的主题，且最简单「侧重内容输出而不是网站维护」。
+上篇文章分享之后，有同学好奇如何搭建，问的比较多，我就简单的花半小时整理下，为了方便自己，做个记录，也方便大家，在这个人人都可以发声的时代，又感觉人人的喉咙都被扼住了，所以有兴趣可以搞起来吧。
+本次我整理一个免费的教程，不用花一分钱，和域名，代理什么都不需要，也就是github 版本，利用 github pages 的免费 host 和自动部署功能，大家按照如下步骤，可以在 20 分钟内搭建出来。
+环境 Windows（以这个为例子） 需要：git 包管理，hugo 预编译文件，Node.js, vscode(推荐)
+git 包管理： Git - Downloads Node. Js Download | Node.js 安装环境后，然后可以打开终端，输入 CMD，找到 powershell，然后按照下面的步骤进行构建。
+我使用 scoop 进行安装 hugo 的 extension 版本
+scoop install hugo-extended 安装完之后，就可以看到当前的版本了
+本地 创建一个新的 blog 使用命令 hugo new site 来创建一个博客，例如，我用‘lucasloveann_blog ’这个名字可以根据自己的需要改
+hugo new site lucasloveann_blog 进入刚刚创建好的博客文件夹中 在命令行中使用cd命令
+cd lucasloveann_blog 给博客加个主题 把当前目录进行github仓库的初始化</description>
       
     </item>
     
     <item>
-      <title>Math Typesetting - use Mathematical notation in blog posts</title>
-      <link>https://example.org/posts/math-typesetting/</link>
+      <title>lucas</title>
+      <link>https://xlmm.github.io/lucasloveann.github.io/posts/lucas/%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B6%88%E8%B4%B9%E7%90%86%E5%BF%B5%E5%92%8C%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xlmm.github.io/lucasloveann.github.io/posts/lucas/%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B6%88%E8%B4%B9%E7%90%86%E5%BF%B5%E5%92%8C%E5%B7%A5%E5%85%B7/</guid>
+      
+      <description>近一年的消费理念和工具让我获益良多，我觉得很有必要进行整理，然后分享出来。这应该是我第一次如此完整的进行梳理我的信息消费方式，希望对大家有用。
+整体阅读时间大概：14分钟
+信息管理理念和实践 日常工作生活中需要处理的信息太多了，导致一度非常混乱，因此我尝试过好几种信息管理的方法，如 GTD，如时间管理矩阵，如 kanban 等，但最终选择了 P.A.R.A 管理，然后通过信息蒸馏方法进行信息消费。
+PARA P.A.R.A. 是一个信息管理系统的框架，它代表四个关键概念：Projects（项目）、Areas（领域）、Resources（资源）和 Archives（归档），这些概念帮助我们组织和管理个人和工作生活中的信息。
+以下是 P.A.R.A. 框架中的四个关键概念，结合我自己的一些实践进行分享。
+Projects（项目）： 项目是我正在进行的具体任务、目标或项目。它们通常有明确的截止日期或完成标准，并需要特定的行动和资源来实现。在 P.A.R.A. 中，我会创建项目文件夹，将相关文件、笔记、任务列表等组织在一起，以便更好地管理和跟踪项目的进展。
+以上是我的项目，一般我会控制在四个，然后下面还有小项目，超出精力就分配不过来 Daily Note 主要是每天我的待办事项，包括工作和生活的，睡前会花十分钟整理小结，更多是为多年后自己回忆起我每天是如何过的。 日常工作，我会记录一些重点关注问题，逼迫自己去解决最关键和核心的问题，协助管理，这样可以让我掌控感更强。 日常沉思，主要是利用斯多葛理念，进行消极想象和控制二分法等，让自己更自洽，不至于在这个烦乱的世道上被裹挟得太难受。 博客管理，自己买个域名，开发搭建了博客，因为有些公众号不好发的内容，会记录在博客上，公众号很容易被平台干，被陌生喷子干，还是自己博客有掌控感。 Areas（领域）： 领域是我生活中的广泛领域、角色、责任或兴趣。它们代表我的不同身份或关注领域，例如工作、家庭、健康、学习等。在 P.A.R.A. 中，我创建和整理了各个领域文件夹，将与特定领域相关的文件、笔记、资源等组织在一起，以便更好地管理和处理与该领域相关的信息。
+因为个人精力有限，我只会精进当前自己重点关注的部分 公司治理，是前年写的一篇文章刻意精进以高两个层级来思考，但目前还是做得不够好 管理能力，自我管理和他人管理，同级或向上管理，或者团队 leader 身份，持续学习 产品能力，当前依旧还在游戏行业，但是目前来看貌似遇到瓶颈，等待后面的其他机会 编程能力，是由于当前要解决一些如开发博客，或者公司业务跑数据，游戏数值设计等 写作能力，前面是为了链接更多同行，在TG上当前已有 500 人左右需要管理，他们给到了我很大的动力，一起进步。 Resources （资源） 资源是我收集、存储和参考的信息、文件、链接和其他资料。它们可以是文档、笔记、网页、书籍、照片、音频文件等。在 P.A.R.A. 中，我创建资源文件夹，将相关的资源组织在一起，以便快速访问和检索。
+前面我分享过自己的书架，经过时间过滤的，和最近相对比较热的。经过时间过滤的会重复多看，最近比较热的粗浅看一遍，跟进热点资讯。 工作沉淀，工作占据了我大部分的时间，在工作中以一种享受的状态，将自己沉淀的，别人分享的内容进行整理。 精彩文章，类似 RSW 推荐的一些历经时间还比较好的文章，如德克鲁的或者查理芒格的 我的剪藏，平时看书，和阅读网页文章，看到好的内容会自动进入我的工作流自动入库 Archives （归档） 归档是我不再需要主动处理的信息、文件或项目。归档是对已完成的项目、过时的资源或不再活跃的领域的存档。在 P.A.R.A. 中，可以创建归档文件夹，将这些不再需要主动处理的内容存档起来，以保持主工作区的整洁和高效。
+为自己的思绪空出更多空间，一般阶段性完结的事情，我会进行归档，做好索引，后面有需要再取出来。如，我搭建了前面博客，我从零到一，从服务端到前端代码，到美观度设计，还有内容输出等各个维度，完成了之后，会打个便签放好，后续大概率不会继续开发，重在内容输出，除非框架出现问题进行优化。或者，有朋友需要了解方案，直接丢出去链接即可。
+P.A.R.A. 框架的帮助我更好地组织、管理和利用我当前的信息资源，让我能够更高效地处理任务、跟踪项目和管理个人生活。这个框架可以根据我个人的需求和偏好进行调整和定制，以适应不同的工作流程和情境。
+一般情况下，看到好东西，我会放到资源库，不紧急的都不会去碰，仅收藏。专心做好当前已经进行的项目，等后面有更多精力了就从资源库拉出来，独立一个项目继续开启。然后，当一个项目完结之后，会进行整理好，然后标记好作用于哪个领域，想办法进行多次实践验证，然后存档方便后续继续调用。
+信息消费 上面说的 P.A.R.A 是一个大框架，但是从小处着手的话，还需要考虑到一些信息如何蒸馏出来。这个在整个 P.A.R.A 过程都很重要，过滤绝大多数的垃圾信息。一般我会通过如下的方式进行消费信息。这里面涉及到一些很实用的工具，在以下会附上并简要说明。
+收集&amp;ndash;&amp;gt;重铸&amp;ndash;&amp;gt;蒸馏&amp;ndash;&amp;gt;整理&amp;ndash;&amp;gt;分享
+收集信息： 信息源很重要，多阅读一些还不错的内容，和让自己消费高质量的食品一样有益身心健康。</description>
+      
+    </item>
+    
+    <item>
+      <title>Impaginazione Delle Formule Matematiche</title>
+      <link>https://xlmm.github.io/lucasloveann.github.io/posts/math-typesetting/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/math-typesetting/</guid>
+      <guid>https://xlmm.github.io/lucasloveann.github.io/posts/math-typesetting/</guid>
       
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using
-&lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;third party JavaScript libraries&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;La notazione matematica in un progetto Hugo può essere abilitata utilizzando delle
+&lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;librerie JavaScript di terze parti&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://example.org/posts/markdown-syntax/</link>
+      <title>Guida Alla Sintassi Markdown</title>
+      <link>https://xlmm.github.io/lucasloveann.github.io/posts/markdown-syntax/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/markdown-syntax/</guid>
+      <guid>https://xlmm.github.io/lucasloveann.github.io/posts/markdown-syntax/</guid>
       
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://example.org/posts/rich-content/</link>
+      <title>Gli Shortcode di Hugo</title>
+      <link>https://xlmm.github.io/lucasloveann.github.io/posts/rich-content/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/rich-content/</guid>
+      <guid>https://xlmm.github.io/lucasloveann.github.io/posts/rich-content/</guid>
       
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hugo viene distribuito con alcuni &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Shortcode integrati&lt;/a&gt; per il rich content, assieme a una &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Configurazione Per La Privacy&lt;/a&gt; ed un&amp;rsquo;insieme di semplici Shortcode che consentono di incorporare alcune versioni statiche e senza-JS di alcuni social media.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>https://example.org/posts/placeholder-text/</link>
+      <title>Testo Segnaposto</title>
+      <link>https://xlmm.github.io/lucasloveann.github.io/posts/placeholder-text/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/placeholder-text/</guid>
+      <guid>https://xlmm.github.io/lucasloveann.github.io/posts/placeholder-text/</guid>
       
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>https://example.org/posts/emoji-support/</link>
+      <title>Supporto Alle Emoji</title>
+      <link>https://xlmm.github.io/lucasloveann.github.io/posts/emoji-support/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/emoji-support/</guid>
+      <guid>https://xlmm.github.io/lucasloveann.github.io/posts/emoji-support/</guid>
       
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Le emoji possono essere abilitate in un progetto Hugo in diversi modi.&lt;/p&gt;</description>
       
     </item>
     

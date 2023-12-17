@@ -2,235 +2,160 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/"
                 />
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/posts/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/posts/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/"
                 />
   </url><url>
-    <loc>https://example.org/posts/table-of-content/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/table-of-content/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://example.org/posts/table-of-content/"
-                />
   </url><url>
-    <loc>https://example.org/posts/math-typesetting/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/math-typesetting/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/posts/math-typesetting/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/posts/math-typesetting/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>https://example.org/posts/markdown-syntax/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/markdown-syntax/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/posts/markdown-syntax/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/posts/markdown-syntax/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://example.org/posts/rich-content/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/rich-content/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/posts/rich-content/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/posts/rich-content/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/rich-content/"
                 />
   </url><url>
-    <loc>https://example.org/posts/placeholder-text/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/placeholder-text/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/posts/placeholder-text/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/posts/placeholder-text/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>https://example.org/tags/emoji/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/tags/emoji/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/tags/emoji/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/tags/emoji/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/tags/emoji/"
                 />
   </url><url>
-    <loc>https://example.org/posts/emoji-support/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/emoji-support/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/posts/emoji-support/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/posts/emoji-support/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/posts/emoji-support/"
                 />
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/tags/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/tags/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/tags/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/tags/"
                 />
   </url><url>
-    <loc>https://example.org/pages/about/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/pages/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/pages/about/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/pages/about/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/pages/about/"
                 />
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/categories/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/categories/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/categories/"
                 />
   </url><url>
-    <loc>https://example.org/pages/</loc>
+    <loc>https://xlmm.github.io/lucasloveann.github.io/en-gb/pages/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.org/ru-ru/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.org/it/pages/"
+                hreflang="cn"
+                href="https://xlmm.github.io/lucasloveann.github.io/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/pages/"
+                href="https://xlmm.github.io/lucasloveann.github.io/en-gb/pages/"
                 />
   </url>
 </urlset>
